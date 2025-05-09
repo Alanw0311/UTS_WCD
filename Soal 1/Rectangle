@@ -1,0 +1,9 @@
+// Input
+let length = 5;
+let width = 3;
+
+// Calculate area
+let area = length * width;
+
+// Output
+console.log("Area of rectangle:", area);
